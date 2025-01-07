@@ -19,3 +19,4 @@ int main(int argc, char const *argv[])
     return 0;
     // This line indicates that the program has executed successfully and returns 0 to the operating system.
 }
+// cin.ignore is used to ignore or clear one or more characters from the input buffer.
